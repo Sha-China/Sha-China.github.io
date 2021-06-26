@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://g.hj6.xyz</id>
     <title>滑稽博客</title>
-    <updated>2021-06-26T04:05:36.262Z</updated>
+    <updated>2021-06-26T04:10:09.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://g.hj6.xyz"/>
     <link rel="self" href="https://g.hj6.xyz/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://g.hj6.xyz/images/avatar.png</logo>
     <icon>https://g.hj6.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, 滑稽博客</rights>
+    <entry>
+        <title type="html"><![CDATA[AlphaSSL通配符证书申请教程]]></title>
+        <id>https://g.hj6.xyz/post/alphassl-tong-pei-fu-zheng-shu-shen-qing-jiao-cheng/</id>
+        <link href="https://g.hj6.xyz/post/alphassl-tong-pei-fu-zheng-shu-shen-qing-jiao-cheng/">
+        </link>
+        <updated>2021-06-26T04:08:41.000Z</updated>
+        <content type="html"><![CDATA[<p>首先我们创建一个CRS<br>
+<img src="https://static.gridea.dev/300331443598393866/wNaUVKdDU.jpg" alt="" loading="lazy"><br>
+让后把CRS和购买的token粘贴进去<br>
+<img src="https://static.gridea.dev/300331443598393866/B3b_65uYV.jpg" alt="" loading="lazy"><br>
+申请完成,去邮箱查看<br>
+<img src="https://static.gridea.dev/300331443598393866/rj0xy5CkX.jpg" alt="" loading="lazy"><br>
+去访问这个链接<br>
+<img src="https://static.gridea.dev/300331443598393866/Zy41E654o.jpg" alt="" loading="lazy"><br>
+同意<br>
+<img src="https://static.gridea.dev/300331443598393866/NOpOQuu04.jpg" alt="" loading="lazy"><br>
+这个就是证书,私钥是最开始生成的<br>
+<img src="https://static.gridea.dev/300331443598393866/jUzsxBtND.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://g.hj6.xyz/post/hello-gridea/</id>
