@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://g.hj6.xyz</id>
     <title>滑稽博客</title>
-    <updated>2021-06-26T09:08:30.665Z</updated>
+    <updated>2021-06-26T09:15:56.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://g.hj6.xyz"/>
     <link rel="self" href="https://g.hj6.xyz/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://g.hj6.xyz/images/avatar.png</logo>
     <icon>https://g.hj6.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, 滑稽博客</rights>
+    <entry>
+        <title type="html"><![CDATA[来!给微信公众号搞个RSS!]]></title>
+        <id>https://g.hj6.xyz/post/lai-gei-wei-xin-gong-zhong-hao-gao-ge-rss/</id>
+        <link href="https://g.hj6.xyz/post/lai-gei-wei-xin-gong-zhong-hao-gao-ge-rss/">
+        </link>
+        <updated>2021-06-26T09:15:09.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>今天闲的没事,于是打开了我的RSS客户端,发现某众发了这篇文章。试了下不错,分享给大家!</p>
+<h1 id="常用公众号">常用公众号</h1>
+<p>这个吾爱论坛是我常看的,所以发出来,示例<br>
+吾爱破解论坛 https://github.com/hellodword/wechat-feeds/raw/feeds/MjM5Mjc3MDM2Mw==.xml</p>
+<h1 id="使用方法">使用方法</h1>
+<p>https://wechat.privacyhide.com/<br>
+输入公众号,即可查看RSS地址(.XML文件)</p>
+<h1 id="截图">截图</h1>
+<p><img src="https://static.gridea.dev/300331443598393866/3P69mDp7A.jpg" alt="" loading="lazy"><br>
+<img src="https://static.gridea.dev/300331443598393866/1SubdiCep.jpg" alt="" loading="lazy"><br>
+<img src="https://static.gridea.dev/300331443598393866/HenqLfvTj.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AlphaSSL通配符证书申请教程]]></title>
         <id>https://g.hj6.xyz/post/alphassl-tong-pei-fu-zheng-shu-shen-qing-jiao-cheng/</id>
